@@ -1,0 +1,28 @@
+.nav {
+  max-width: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 0 10px;
+  padding-top: 10px;
+}
+.nav img {
+  display: block;
+  max-width: 100%;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.menu {
+  animation-timing-function: cubic-bezier(0.88, 0.19, 0.37, 1.11);
+  animation-fill-mode: both;
+  animation-delay: 0.1s;
+  display: flex;
+  margin-top: -250px;
+  background-color: wheat;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.menu:hover {
+  background-color: rgb(75, 75, 224);
+  color: white;
+}
