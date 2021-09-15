@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/efandraytw/static/css/main.15aac661.chunk.css",
+    "main.js": "/efandraytw/static/js/main.266b7e8d.chunk.js",
+    "main.js.map": "/efandraytw/static/js/main.266b7e8d.chunk.js.map",
+    "runtime-main.js": "/efandraytw/static/js/runtime-main.25099f40.js",
+    "runtime-main.js.map": "/efandraytw/static/js/runtime-main.25099f40.js.map",
+    "static/js/2.6daee0bf.chunk.js": "/efandraytw/static/js/2.6daee0bf.chunk.js",
+    "static/js/2.6daee0bf.chunk.js.map": "/efandraytw/static/js/2.6daee0bf.chunk.js.map",
+    "static/js/3.017043c1.chunk.js": "/efandraytw/static/js/3.017043c1.chunk.js",
+    "static/js/3.017043c1.chunk.js.map": "/efandraytw/static/js/3.017043c1.chunk.js.map",
+    "index.html": "/efandraytw/index.html",
+    "static/css/main.15aac661.chunk.css.map": "/efandraytw/static/css/main.15aac661.chunk.css.map",
+    "static/js/2.6daee0bf.chunk.js.LICENSE.txt": "/efandraytw/static/js/2.6daee0bf.chunk.js.LICENSE.txt",
+    "static/media/Elon_Musk.e756d916.jpg": "/efandraytw/static/media/Elon_Musk.e756d916.jpg",
+    "static/media/Profil.88c2ba84.jpg": "/efandraytw/static/media/Profil.88c2ba84.jpg",
+    "static/media/therock.cc4da32c.jpeg": "/efandraytw/static/media/therock.cc4da32c.jpeg",
+    "static/media/App.css": "/efandraytw/static/media/unnamed.f4d5523f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25099f40.js",
+    "static/js/2.6daee0bf.chunk.js",
+    "static/css/main.15aac661.chunk.css",
+    "static/js/main.266b7e8d.chunk.js"
+  ]
+}
